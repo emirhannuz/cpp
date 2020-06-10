@@ -1,6 +1,6 @@
 /* 
 	X -> Bomba
-	T-> Temix
+	T-> Temiz
 	O->Kullanýcýnýn seçtiði yer	
 */
 

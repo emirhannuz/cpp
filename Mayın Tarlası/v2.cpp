@@ -1,3 +1,9 @@
+/* 
+	X -> Bomba
+	T-> Temiz
+	O->Kullanýcýnýn seçtiði yer	
+*/
+
 #include <iostream>
 #include <iostream>
 #include <stdlib.h> 
